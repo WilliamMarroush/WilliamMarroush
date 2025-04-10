@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 ![WilliamMarroush's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMarroush&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### GitHub Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=WilliamMarroush&theme=dracula)](https://git.io/streak-stats)
+![WilliamMarroush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamMarroush&theme=dracula&hide_border=true)
 
 ---
 
