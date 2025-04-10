@@ -16,8 +16,8 @@ Welcome to my GitHub profile!
 - Personal finance apps
 
 ### 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/william-marroush/))
-- Email: [your-email@example.com](mailto:marroushw@yahoo.com)
+- [LinkedIn: William Marroush]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/william-marroush/))
+- Email: [marroushw@yahoo.com](mailto:marroushw@yahoo.com)
 
 ### ⚡ Fun fact:
 - I have a natural talent for drawing and art 🎨
