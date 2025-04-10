@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**WilliamMarroush/WilliamMarroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Building a personal budgeting app with React and Node.js.
+- Working on my web development skills! 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- PostgreSQL
+- Backend development with Node.js
+
+### 💬 Ask me about:
+- React
+- Game development with Unity
+- Personal finance apps
+
+### 📫 How to reach me:
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/william-marroush/))
+- Email: [your-email@example.com](mailto:marroushw@yahoo.com)
+
+### ⚡ Fun fact:
+- I have a natural talent for drawing and art 🎨
+
+---
+
+### GitHub Stats:
+![WilliamMarroush's Stats](https://github-readme-stats.vercel.app/api?username=WilliamMarroush&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![WilliamMarroush's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMarroush&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+### GitHub Streak Stats:
+![WilliamMarroush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamMarroush&theme=dracula&hide_border=true)
+
+---
+
+### My Latest Projects:
+- [Project 1](link-to-project)
+- [Project 2](link-to-project)
