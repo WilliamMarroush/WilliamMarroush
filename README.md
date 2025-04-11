@@ -42,5 +42,5 @@ Welcome to my GitHub profile!
 ---
 
 ### My Latest Projects:
-- [Project 1](link-to-project)
-- [Project 2](link-to-project)
+- [Sunset Sunrise from Zip](https://github.com/WilliamMarroush/SunRiseSunSetFromZip)
+- [Will's WillBudgeter](https://github.com/WilliamMarroush/WillBudgeter)
